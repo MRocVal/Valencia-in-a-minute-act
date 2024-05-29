@@ -4,7 +4,6 @@ pydeck
 requests
 datetime
 beautifulsoup4 
-smtplib
 email.mine.text
 threading
 json
