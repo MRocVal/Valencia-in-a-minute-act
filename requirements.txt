@@ -4,5 +4,4 @@ pydeck
 requests
 datetime
 beautifulsoup4 
-threading
-json
+
