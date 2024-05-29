@@ -14,8 +14,7 @@ from datetime import datetime, timedelta
 import time
 import smtplib
 from email.mime.text import MIMEText
-import threading
-import json
+
 
 
 # ::::::::::::::::::::::::::::: FUNCIONES ::::::::::::::::::::::::::::::::
