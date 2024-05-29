@@ -6,3 +6,4 @@ datetime
 beautifulsoup4 
 sendgrid
 Pillow
+smtplib
